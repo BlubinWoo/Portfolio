@@ -53,8 +53,7 @@ hr.line { margin: 15px auto; padding: 0; max-width: 90px;border: 0; border-top: 
 .top-header ul.top-social a:hover{color: #23B6B6;}
 
 @media only screen and (max-width: 767px){
-	.top-header ul.top-social{float:none !important; text-align: center;}
-	.site-header{background-position: 46% -50px;}
+	.top-header ul.top-social{float:none !important; text-align: center;}}
 }
 
 header{}
