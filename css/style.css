@@ -54,6 +54,7 @@ hr.line { margin: 15px auto; padding: 0; max-width: 90px;border: 0; border-top: 
 
 @media only screen and (max-width: 767px){
 	.top-header ul.top-social{float:none !important; text-align: center;}
+	.site-header{background-position: 46% -50px;}
 }
 
 header{}
